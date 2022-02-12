@@ -13,8 +13,9 @@
 
 ### 🎒 SKY Software Academy Final Project - PureFitness
 
-
-<img style="text-align:centre" src="images/fitness.png" width="300px"> 
+<centre> <img src="images/fitness.png" width="300px"> 
+<centre/>
+<img src="images/fitness.png" width="300px"> 
 
 - [Click here to view project code](https://github.com/asiasharif/pure_fitness_web_app)
 
