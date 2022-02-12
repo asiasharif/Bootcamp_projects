@@ -2,9 +2,10 @@
 
 ### 🎓 Software Engineering Nanodegree Final Project - FilmNow
 
-#### [Click Here] 👇 <a href="https://github.com/asiasharif/CodeFirstGirls-Nanodegree-Project"></a>
+#### [Click Here] 👇 <a href="https://github.com/asiasharif/CodeFirstGirls-Nanodegree-Project">
 <centre> <img src="FilmNow.jpeg" width="300px"> 
 <centre/>
+</a>
 
 
 
@@ -17,10 +18,10 @@
 
 ### 🎒 SKY Software Academy Final Project - PureFitness
 
-#### Click Here 👇 <a href="https://github.com/asiasharif/pure_fitness_web_app"></a>
+#### Click Here 👇 <a href="https://github.com/asiasharif/pure_fitness_web_app">
 <centre> <img src="images/fitness.png" width="300px"> 
 <centre/>
-
+</a>
 
 <br>
 
