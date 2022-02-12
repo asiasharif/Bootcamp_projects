@@ -8,6 +8,10 @@
 ### SKY Software Academy Final Project - PureFitness
 
 
+<img src="images/fitness.png">
+
+
+
 
 
 ### TechNewbies - EdTech Platform
