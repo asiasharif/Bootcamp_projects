@@ -1,4 +1,4 @@
-### HI, Welcome to my projects 😁👋
+### HI, welcome to my projects 😁👋!
 
 ### 🎓 Software Engineering Nanodegree Final Project - FilmNow
 
