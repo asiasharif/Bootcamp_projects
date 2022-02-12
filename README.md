@@ -1,8 +1,8 @@
-# HI, Welcome to my projects 😁👋
+### HI, Welcome to my projects 😁👋
 
 ### 🎓 Software Engineering Nanodegree Final Project - FilmNow
 
-<a href="https://github.com/asiasharif/CodeFirstGirls-Nanodegree-Project"></a>
+ #### Click here 👉 <a href="https://github.com/asiasharif/CodeFirstGirls-Nanodegree-Project"></a>
 <centre> <img src="FilmNow.jpeg" width="300px"> 
 <centre/>
 
@@ -17,7 +17,7 @@
 
 ### 🎒 SKY Software Academy Final Project - PureFitness
 
-<a href="https://github.com/asiasharif/pure_fitness_web_app"></a>
+#### Click here 👉 <a href="https://github.com/asiasharif/pure_fitness_web_app"></a>
 <centre> <img src="images/fitness.png" width="300px"> 
 <centre/>
 
