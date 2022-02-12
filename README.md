@@ -30,9 +30,9 @@
 - Strengthened knowledge in solidity and javascript.
 - Pair programmed with members in ConsenSys blockchain bootcamp and passed these specific exercises at high level.
 
-- [Supply Chain](https://github.com/asiasharif/supply-chain-exercise-asiasharif)
+- 💻 [Supply Chain Exercise](https://github.com/asiasharif/supply-chain-exercise-asiasharif)
 
-- [Simple Bank](https://github.com/asiasharif/simple-bank-exercise-asiasharif)
+- 💻 [Simple Bank Exercise](https://github.com/asiasharif/simple-bank-exercise-asiasharif)
 
 
 
