@@ -14,7 +14,7 @@
 ### 🎒 SKY Software Academy Final Project - PureFitness
 
 
-<img src="images/fitness.png" width="50px">
+<img src="images/fitness.png" width="300px">
 
 - Built a full-stack fitness web application as part of a group project - implementing various technologies and working in an agile methodology.
 - Experienced Scrum Master – front end stage and database stage – guided the team to build a quote generator, by sending front end development resources prior the meeting, creating interactive sessions and enabled us to use JS, Node.js, HTML and CSS. 
@@ -30,9 +30,9 @@
 - Strengthened knowledge in solidity and javascript.
 - Pair programmed with members in ConsenSys blockchain bootcamp and passed these specific exercises at high level.
 
-- ![Supply Chain](https://github.com/asiasharif/supply-chain-exercise-asiasharif)
+- [Supply Chain](https://github.com/asiasharif/supply-chain-exercise-asiasharif)
 
-- ![Simple Bank](https://github.com/asiasharif/simple-bank-exercise-asiasharif)
+- [Simple Bank](https://github.com/asiasharif/simple-bank-exercise-asiasharif)
 
 
 
