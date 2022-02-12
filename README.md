@@ -2,7 +2,11 @@
 
 ### 🎓 Software Engineering Nanodegree Final Project - FilmNow
 
-![FilmNow Gif](https://github.com/asiasharif/Bootcamp_projects/blob/main/D6026C11-3558-418C-AF61-94455CAD65A2_4_5005_c.jpeg)
+<a href="https://github.com/asiasharif/CodeFirstGirls-Nanodegree-Project"></a>
+<centre> <img src="FilmNow.jpeg" width="300px"> 
+<centre/>
+
+
 
 - Built a full stack web application - Film recommendation App - used technologies such as Python, SQL, and JavaScript and implementing python flask and using http methods to process data.
 - Lead the team by being Scrum Master through out the buidling phase and created interactive sessions to aid to the technical growth of the team. 
