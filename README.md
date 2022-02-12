@@ -2,7 +2,7 @@
 
 ### 🎓 Software Engineering Nanodegree Final Project - FilmNow
 
- #### Click Here 👇 <a href="https://github.com/asiasharif/CodeFirstGirls-Nanodegree-Project"></a>
+ #### Click Here 👇 <a href="https://github.com/yasmine-codes/CodeFirstGirls-Nanodegree-Project"></a>
 <centre> <img src="FilmNow.jpeg" width="300px"> 
 <centre/>
 
