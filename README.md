@@ -9,7 +9,7 @@
 
 
 
-- Built a full stack web application - Film recommendation App - used technologies such as Python, SQL, and JavaScript and implementing python flask and using http methods to process data.
+- Built a full stack web application - Film recommendation App - used technologies such as Python, SQL, and JavaScript and implementing hashing, python flask and using http methods to process data.
 - Enhanced algorithemic and problem solving skills.
 - Lead the team by being Scrum Master through out the buidling phase and created interactive sessions to aid to the technical growth of the team. 
 - Achieved Distinction Grade - 86%. 
