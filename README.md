@@ -36,7 +36,7 @@
 
 ### ⛓ Blockchain Exercises
 
-- Developed smart contracts using Soldidity programming langauge.
+- Developed smart contracts using Solidity programming langauge.
 - Strengthened knowledge in solidity and javascript.
 - Pair programmed with members in ConsenSys blockchain bootcamp and passed these specific exercises at high level.
 
