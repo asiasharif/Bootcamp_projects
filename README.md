@@ -34,6 +34,17 @@
 
 <br>
 
+### 👩🏽‍🏫 Mentee Project 
+
+- Built a full-stack anime website with Mentee
+- Developed leadership and communication skills
+- Pair Programmed Python projects
+  
+- 👩🏽‍🎤 [Anime Website](https://github.com/Mkayy8/Anime-website)
+
+  
+<br>
+  
 ### ⛓ Blockchain Exercises
 
 - Developed smart contracts using Solidity programming langauge.
